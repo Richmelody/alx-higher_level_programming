@@ -1,1 +1,1 @@
-javascript		 warm up tasks
+Warming up for JavaScript projects
